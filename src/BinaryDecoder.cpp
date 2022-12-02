@@ -1,7 +1,6 @@
 #include "BinaryDecoder.hpp"
-#include "math.h"
 
-void BinaryDecoder::encode(const std::string &text){
+void BinaryDecoder::decode(const std::string &text){
 
     for(int n{0};n<text.size();n++){
 

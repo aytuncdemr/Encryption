@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 #include <array>
+#include <math.h>
 #include <algorithm>
 
 class BinaryDecoder{ // Only english characters supported! (Sadece Ingilizce karakterler destekli)
@@ -15,7 +16,7 @@ class BinaryDecoder{ // Only english characters supported! (Sadece Ingilizce kar
             
         }
 
-        static void encode(const std::string &text);
+        static void decode(const std::string &text);
 
 };
 
