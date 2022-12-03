@@ -28,10 +28,13 @@ encrypt my_password
 Decryption might not accept input data depending on the size of the data.
 
 ## Build
-"""
-try
 
-"""
+``
+mkdir build
+cd build
+cmake -S .. -B . 
+make
+``
 
 ## ScreenShots
 
