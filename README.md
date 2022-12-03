@@ -1,10 +1,10 @@
 # Encryption
 
-##Explanation
+## Explanation
 Encryption is a project that you can encrypt your messages or passwords. You can also use binary encoder/decoder of this project.
 This project uses AES algorithm in order to encrypt and decrypt the messages or passwords.
 
-##How to use
+## How to use
 Usage of the program is straightforward.
 As shown in the program itself you can use the program by typing 
 
@@ -16,7 +16,7 @@ decrypt text
   
 encrypt text
 
-##Examples
+## Examples
 
 encode This sentence is going to be a binary sentence !
   
@@ -25,7 +25,7 @@ decode 01010100011001010111001101110100
 encrypt my_password
 
 
-##Issues
+## Issues
 Decryption might not accept input data depending on the size of the data.
 
 ##ScreenShots
