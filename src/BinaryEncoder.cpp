@@ -4,6 +4,8 @@ void BinaryEncoder::encode(const std::string &text){
 
     std::string text_with_no_space;
 
+    std::cout << "Output: ";
+
     for(int x{0};x<text.size();x++){
 
         char letter = text.at(x);

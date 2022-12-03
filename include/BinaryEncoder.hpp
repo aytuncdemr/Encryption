@@ -17,7 +17,6 @@ class BinaryEncoder{
 
         static void encode(const std::string &text);
 
-
 };
 
 #endif

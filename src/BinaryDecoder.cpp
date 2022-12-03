@@ -2,6 +2,8 @@
 
 void BinaryDecoder::decode(const std::string &text){
 
+    std::cout << "Output: ";
+
     for(int n{0};n<text.size();n++){
 
         int decimal_val = static_cast<int>(text.at(n));
