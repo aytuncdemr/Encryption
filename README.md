@@ -31,9 +31,13 @@ Decryption might not accept input data depending on the size of the data.
 
 ``
 mkdir build
+
 cd build
+
 cmake -S .. -B . 
+
 make
+
 ``
 
 ## ScreenShots
