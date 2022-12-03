@@ -24,9 +24,14 @@ decode 01010100011001010111001101110100
   
 encrypt my_password
 
-
 ## Issues
 Decryption might not accept input data depending on the size of the data.
+
+## Build
+"""
+try
+
+"""
 
 ## ScreenShots
 
