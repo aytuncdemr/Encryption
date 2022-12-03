@@ -9,18 +9,21 @@ Usage of the program is straightforward.
 As shown in the program itself you can use the program by typing 
 
 1.decode <text>
+  
 2.encode <text>
+  
 3.decrypt <text>
+  
 4.encrypt <text>
 
 ##Examples
 
-'''
 encode This sentence is going to be a binary sentence !
+  
 decode 01010100011001010111001101110100
+  
 encrypt my_password
 
-'''
 
 ##Issues
 Decryption might not accept input data depending on the size of the data.
