@@ -8,13 +8,13 @@ This project uses AES algorithm in order to encrypt and decrypt the messages or 
 Usage of the program is straightforward.
 As shown in the program itself you can use the program by typing 
 
-1.decode <text>
+decode text
   
-2.encode <text>
+encode text
   
-3.decrypt <text>
+decrypt text
   
-4.encrypt <text>
+encrypt text
 
 ##Examples
 
