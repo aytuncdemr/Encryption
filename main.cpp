@@ -11,7 +11,7 @@ int main(){
     std::string first_command;
 
 
-    srand(time(0));-
+    srand(time(0));
     system("color a");
     
     start:
